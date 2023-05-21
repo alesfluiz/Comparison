@@ -1,0 +1,15 @@
+C:\Users\ALESF LUIZ\PROJETOS\CourseComparison\CourseComparison\bin\Debug\net7.0\CourseComparison.exe
+C:\Users\ALESF LUIZ\PROJETOS\CourseComparison\CourseComparison\bin\Debug\net7.0\CourseComparison.deps.json
+C:\Users\ALESF LUIZ\PROJETOS\CourseComparison\CourseComparison\bin\Debug\net7.0\CourseComparison.runtimeconfig.json
+C:\Users\ALESF LUIZ\PROJETOS\CourseComparison\CourseComparison\bin\Debug\net7.0\CourseComparison.dll
+C:\Users\ALESF LUIZ\PROJETOS\CourseComparison\CourseComparison\bin\Debug\net7.0\CourseComparison.pdb
+C:\Users\ALESF LUIZ\PROJETOS\CourseComparison\CourseComparison\obj\Debug\net7.0\CourseComparison.csproj.AssemblyReference.cache
+C:\Users\ALESF LUIZ\PROJETOS\CourseComparison\CourseComparison\obj\Debug\net7.0\CourseComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALESF LUIZ\PROJETOS\CourseComparison\CourseComparison\obj\Debug\net7.0\CourseComparison.AssemblyInfoInputs.cache
+C:\Users\ALESF LUIZ\PROJETOS\CourseComparison\CourseComparison\obj\Debug\net7.0\CourseComparison.AssemblyInfo.cs
+C:\Users\ALESF LUIZ\PROJETOS\CourseComparison\CourseComparison\obj\Debug\net7.0\CourseComparison.csproj.CoreCompileInputs.cache
+C:\Users\ALESF LUIZ\PROJETOS\CourseComparison\CourseComparison\obj\Debug\net7.0\CourseComparison.dll
+C:\Users\ALESF LUIZ\PROJETOS\CourseComparison\CourseComparison\obj\Debug\net7.0\refint\CourseComparison.dll
+C:\Users\ALESF LUIZ\PROJETOS\CourseComparison\CourseComparison\obj\Debug\net7.0\CourseComparison.pdb
+C:\Users\ALESF LUIZ\PROJETOS\CourseComparison\CourseComparison\obj\Debug\net7.0\CourseComparison.genruntimeconfig.cache
+C:\Users\ALESF LUIZ\PROJETOS\CourseComparison\CourseComparison\obj\Debug\net7.0\ref\CourseComparison.dll
