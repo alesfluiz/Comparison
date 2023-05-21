@@ -13,7 +13,9 @@ namespace CourseComparison
             list.Add(new Product("Natebook", 1200.00));
             list.Add(new Product("Tablet", 450.00));
 
-            list.Sort(CompareProduct);
+            Comparison<Product> comp = (p1, p2) => p1.Name.ToUpper().CompareTo(p2.Name.ToUpper());
+
+            list.Sort(comp);
 
             foreach(Product p in list)
             {
@@ -22,9 +24,5 @@ namespace CourseComparison
                         
         }
 
-        static int CompareProduct(Product p1, Product p2)
-        {
-            return p1.Name.ToUpper().CompareTo(p2.Name.ToUpper());
-        }
     }
 }
